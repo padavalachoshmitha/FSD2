@@ -13,5 +13,5 @@ class Student {
     }
 }
 
-const student = new Student(101, "Rani", "AI&DS");
+const student = new Student(102, "Choshmitha", "AI&DS");
 student.display();
