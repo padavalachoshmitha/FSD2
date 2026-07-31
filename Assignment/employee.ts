@@ -20,8 +20,8 @@ class Manager extends Employee {
     }
 }
 
-const emp = new Employee("Chittibabu", 50000, "HR");
+const emp = new Employee("Krishna", 50000, "HR");
 console.log(emp.name);
 emp.showSalary();
-const mgr = new Manager("Sumansvi", 80000, "IT");
+const mgr = new Manager("Rishi", 80000, "IT");
 mgr.displayDepartment();
