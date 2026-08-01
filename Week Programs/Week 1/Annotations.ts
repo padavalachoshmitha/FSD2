@@ -1,17 +1,21 @@
-//Variable Annotations
-let cuisineName:string="Pista House!";
-let restaurantRating:number=5;
-let tasty:boolean=true;
+let cuisineName: string = "Bawarchi Restaurant";
+let restaurantRating: number = 4.8;
+let tasty: boolean = true;
 
-//Function parameter and Return Type Annotations
-function getReserved(title:string,stars:number):string{
-    return '${title} was serving a delicious food with restaurantRating of ${stars}.';
+// Function parameter and Return Type Annotations
+function getReserved(title: string, stars: number): string {
+    return `${title} is well known for its delicious food and has a customer rating of ${stars} stars.`;
 }
 
-//Array Annotations
-let menuItems:string[]=[" Chicken Dum Biryani","Chicken 65","Apricot Delight","Mutton ghee roast"];
+// Array Annotations
+let menuItems: string[] = [
+    "Hyderabadi Chicken Biryani",
+    "Paneer Butter Masala",
+    "Tandoori Chicken",
+    "Double Ka Meetha"
+];
 
-//Using the Annotated variables and functions
+// Using the Annotated variables and functions
 console.log("Cuisine Name:", cuisineName);
 console.log("Rating:", restaurantRating);
 console.log("Is Delicious:", tasty);
