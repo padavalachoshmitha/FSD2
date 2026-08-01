@@ -12,6 +12,6 @@ class Student {
         console.log("Student Name:", this.name);
     }
 }
-const student = new Student(1001, "Dhana lakshmi");
+const student = new Student(5008, "Akira Kundu");
 student.display();
 // student.studentId = 2000; // Error
