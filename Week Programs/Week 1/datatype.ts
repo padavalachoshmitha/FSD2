@@ -1,5 +1,5 @@
 //String programs
-let message1: string = "Hello, Ranii";
+let message1: string = "Hello, Choshmitha";
 console.log(str1);
 let message2: string = "How are you?";
 console.log(str2);
