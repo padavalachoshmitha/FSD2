@@ -1,5 +1,5 @@
 //Variable Annotations
-let cuisineName:string="Paradise!";
+let cuisineName:string="Pista House!";
 let restaurantRating:number=5;
 let tasty:boolean=true;
 
@@ -9,7 +9,7 @@ function getReserved(title:string,stars:number):string{
 }
 
 //Array Annotations
-let menuItems:string[]=[" Chicken Biryani","Ghobi 65","gulab jamun","Mutton ghee roast"];
+let menuItems:string[]=[" Chicken Dum Biryani","Chicken 65","Apricot Delight","Mutton ghee roast"];
 
 //Using the Annotated variables and functions
 console.log("Cuisine Name:", cuisineName);
