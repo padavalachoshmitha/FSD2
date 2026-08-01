@@ -1,4 +1,4 @@
-let string = "Rangasthalam";
+let string = "Choshmitha";
 let result = "";
 
 for (let i = 0; i < string.length; i++) {
