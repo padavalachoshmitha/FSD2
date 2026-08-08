@@ -50,14 +50,14 @@ let students = [
 
     {
         id: 1,
-        name: "Rani",
+        name: "Choshmitha",
         course: "AI&DS",
-        marks: 90
+        marks: 94
     },
 
     {
         id: 2,
-        name: "Anjali",
+        name: "Hyma",
         course: "CSE",
         marks: 85
     }
