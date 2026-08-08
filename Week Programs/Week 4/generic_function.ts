@@ -28,7 +28,7 @@ interface Student {
 }
 
 const student: Student = {
-    name: "Rani",
+    name: "Choshi",
     age: 20
 };
 
