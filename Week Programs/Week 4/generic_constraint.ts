@@ -13,7 +13,7 @@ function showLength<T extends Countable>(item: T): number {
 }
 
 // Works
-console.log(showLength("Ranisumansvi"));
+console.log(showLength("Choshmitha"));
 
 console.log(showLength([10, 20, 30, 40]));
 
