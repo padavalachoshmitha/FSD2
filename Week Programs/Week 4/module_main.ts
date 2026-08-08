@@ -2,7 +2,7 @@ import { Customer } from "./module_customer.js";
 import { Order } from "./module_order.js";
 
 const customer: Customer = {
-    name: "Ranisumansvi",
+    name: "Choshmitha",
     city: "Hampi",
     premiumMembership: true
 };
