@@ -12,7 +12,7 @@ function wrapItem<T>(item: T): { data: T, id: number } {
 }
 
 // Strings
-let names = ["Rani", "Priya", "Anu"];
+let names = ["Choshi", "Hyma", "Yamini"];
 
 console.log(lastItem(names));
 
