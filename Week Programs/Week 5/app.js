@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 app.get('/student', (req, res) => {
     res.send(`
         <h1>Student Information</h1>
-        <p>Name: Rani</p>
+        <p>Name: Choshmitha</p>
         <p>Course: AI & Data Science</p>
     `);
 });
@@ -20,7 +20,7 @@ app.get('/student', (req, res) => {
 // Student JSON Route
 app.get('/api/student', (req, res) => {
     res.json({
-        name: "Rani",
+        name: "Choshmitha",
         course: "AI & Data Science",
         year: 3
     });
